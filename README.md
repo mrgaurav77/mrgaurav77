@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgaurav77&label=Profile%20views&color=0e75b6&style=flat" alt="mrgaurav77" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrgaurav77" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="mrgaurav77"  </p>
+<p align="left"> <a href="https://twitter.com/gkolhe18" target="blank"><img src="https://img.shields.io/twitter/follow/gkolhe18?logo=twitter&style=for-the-badge" alt="gkolhe18"  </p>
 
 - 🔭 I’m currently working on **Glycemic Grocery Guide (Fullstack + MongoDB Atlas)**
 
