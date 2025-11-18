@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN, React, Node.js, MongoDB, Python, SQL**
 
-- 📫 How to reach me <a href="mailto:gkolhe18@gmail.com" target="blank"> **gkolhe18@gmail.com** </a>
+- 📫 How to reach me <a href="https://mailto:gkolhe18@gmail.com" target="blank"> **gkolhe18@gmail.com** </a>
 
 - ⚡ Fun fact **I love Space, Science, Shayari & Coding 👨‍💻✨**
 
